@@ -24,7 +24,7 @@ This project demonstrates how professional website layouts can be achieved using
 
 ## 🚀 Preview
 
-👉 *[https://velmurugan20031610-ship-it.github.io/udemy-clone-project/]*
+👉 *[https://velmurugan20031610.github.io/udemy-clone-project/]*
 
 ---
 
